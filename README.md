@@ -5,7 +5,7 @@
 
 ## I'm a Software Enginer
 
-- 🌱 I am a 22-year-old computer science major currently in my forth year of university. 
+- 🌱 I am a 22-year-old computer science major currently in my fifth year of university. 
 With experience in several programming languages, including Python, C/C++, Java,React, SQL, I am constantly expanding my knowledge and skills. I am currently learning Java and advanced JavaScript techniques to further broaden my expertise.
 
   In addition to my technical abilities, I have built a diverse range of projects, including games, plugins for games, and scripts. I have also gained experience selling and hosting Discord bots on my website. My track record of successful projects showcases my strong attention to detail, motivation, and technical expertise.
