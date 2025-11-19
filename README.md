@@ -40,7 +40,3 @@ Status Right Now : Working
 ![Simpleboy353's GitHub stats](https://github-readme-stats-ziad.vercel.app/api?username=Psychooz&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats-ziad.vercel.app/api/top-langs/?username=ziadboukhalkhal)](https://github.com/ziadboukhalkhal)
 
-
-
-
-<img src="https://i.ibb.co/rZnQsnb/github-header-image-1.png"/> 
