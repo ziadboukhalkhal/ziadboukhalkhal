@@ -37,6 +37,6 @@ Status Right Now : Working
 
 <!--END_SECTION:waka-->
 ### Github Stats
-![Simpleboy353's GitHub stats](https://github-readme-stats-ziad.vercel.app/api?username=Psychooz&show_icons=true&theme=cobalt)
+![Simpleboy353's GitHub stats](https://github-readme-stats-ziad.vercel.app/api?username=ziadboukhalkhal&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats-ziad.vercel.app/api/top-langs/?username=ziadboukhalkhal)](https://github.com/ziadboukhalkhal)
 
