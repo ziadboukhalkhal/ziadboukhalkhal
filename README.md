@@ -6,7 +6,7 @@
 ## I'm a Software Enginer
 
 - 🌱 I am a 22-year-old computer science major currently in my fifth year of university. 
-With experience in several programming languages, including Python, C/C++, Java,React, SQL, I am constantly expanding my knowledge and skills. I am currently learning Java and advanced JavaScript techniques to further broaden my expertise.
+With experience in several programming languages, including Python, Java,React, SQL, I am constantly expanding my knowledge and skills. I am currently learning Spring Boot and advanced React techniques to further broaden my expertise.
 
   In addition to my technical abilities, I have built a diverse range of projects, including games, plugins for games, and scripts. I have also gained experience selling and hosting Discord bots on my website. My track record of successful projects showcases my strong attention to detail, motivation, and technical expertise.
 
@@ -14,9 +14,6 @@ With experience in several programming languages, including Python, C/C++, Java,
 - ### About me :
 - 🌐 Website : [Here](portfolio.ziadboukhalkhal)
 - 📫 What is the best way to contact me? ziadboukhalkhalofficiel@gmail.com
-
-[![Twitter Badge](https://img.shields.io/badge/Twitter-%23229FEC.svg?&style=for-the-badge&logo=twitter&logoColor=white)](hhttps://twitter.com/Psy_cho_z)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/psychopath)
 
 ---
 
